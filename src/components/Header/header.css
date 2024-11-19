@@ -1,0 +1,16 @@
+.container-header {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background: linear-gradient(to bottom, #8B0000, #000000);
+    padding: 26px;
+    color: #FFF;
+    margin-bottom: 35px;
+    font-size: 14px;
+    font-family: sans-serif;
+}
+
+.container-header img {
+    width: 75px;
+    height: 75px;
+}
