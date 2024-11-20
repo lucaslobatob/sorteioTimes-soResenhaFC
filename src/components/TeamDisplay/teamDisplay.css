@@ -1,0 +1,26 @@
+.team-display {
+  display: flex;
+  justify-content: space-around; /* Espaça uniformemente os times */
+  align-items: flex-start; /* Alinha os itens ao topo */
+  margin-top: 20px;
+  margin: 36px;
+}
+
+.team {
+  background-color: #f4f4f4; /* Fundo para destacar cada time */
+  padding: 20px;
+  margin: 20px;
+  border-radius: 8px;
+  box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+  width: 45%; /* Cada time ocupa 45% da largura */
+  text-align: center;
+}
+
+.team h3 {
+  color: #333;
+}
+
+.team ul {
+  list-style: none;
+  padding: 0;
+}
