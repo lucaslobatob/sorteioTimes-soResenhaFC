@@ -11,7 +11,9 @@ O site foi desenvolvido utilizando **JavaScript** e **ReactJS**. No futuro, plan
 https://sorteiosoresenhafc.vercel.app/
 
 <hr />
+
 # Resenha FC
+
 **Resenha FC** is a soccer team formed by a group of friends who, after some time away from the field, decided to get together again to play and have fun every weekend. There are no established stars here—just players who like to play with the ball and provide good entertainment for those on and off the field.
 
 ## About the website
