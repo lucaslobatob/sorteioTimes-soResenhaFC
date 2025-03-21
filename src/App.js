@@ -43,8 +43,8 @@ function App() {
       <Header />
       <span className="container-span">
         <p>
-          O Sorteador de Times é um aplicativo prático e intuitivo, que permite organizar partidas de forma rápida. 
-          Com ele, você pode adicionar jogadores, visualizar a lista completa e sortear equipes aleatoriamente, 
+          O Sorteador de Times é um aplicativo prático e intuitivo, que permite organizar partidas de forma rápida.
+          Com ele, você pode adicionar jogadores, visualizar a lista completa e sortear equipes aleatoriamente,
           garantindo equilíbrio e dinamismo nos jogos. Ideal para amigos e grupos que querem focar no futebol ou qualquer esporte
           sem perder tempo com a formação dos times!
         </p>
@@ -54,7 +54,8 @@ function App() {
           <button onClick={() => sortTeams(2)} style={{ marginRight: '10px' }}>
             Sortear 2 Times
           </button>
-          <button onClick={() => sortTeams(3)}>Sortear 3 Times</button>
+          <button onClick={() => sortTeams(3)} style={{ marginRight: '10px' }}>Sortear 3 Times</button>
+          <button onClick={() => sortTeams(4)}>Sortear 4 Times</button>
           <button onClick={clearAllData} style={{ marginLeft: '10px' }}>
             Excluir Todos os Dados
           </button>
